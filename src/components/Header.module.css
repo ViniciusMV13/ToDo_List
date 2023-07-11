@@ -1,0 +1,13 @@
+.logo {
+    background-color: var(--gray-700);
+    display: flex;
+    justify-content: center;
+    height: 12.5rem;
+    
+}
+
+.logo img {
+    height: 3rem;
+    margin-top: 4.5rem;
+}
+
